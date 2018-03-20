@@ -1,4 +1,4 @@
-package com.example.ruslan.test2;
+package com.example.ruslan.user_agent;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.ruslan.test2", appContext.getPackageName());
+        assertEquals("com.example.ruslan.user_agent", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.ruslan.test2;
+package com.example.ruslan.user_agent;
 
 import org.junit.Test;
 
